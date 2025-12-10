@@ -1,5 +1,5 @@
 # Börsenspiel
-# Autor: Herr Fiedler
+# Autor: Herr Fiedler & KI
 # Lizenz: MIT License
 # Diese Datei darf frei genutzt, verändert und weitergegeben werden.
 # Vollständiger Lizenztext: https://opensource.org/licenses/MIT
